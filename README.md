@@ -21,7 +21,10 @@ Example
 Here's an example of how to fill in the information in the calculator:
 
 Cryptocurrency	Date and Time	Quantity	Purchase Price
+
 Bitcoin	2022-01-01 10:00	0.5 BTC	$30,000
+
 Bitcoin	2022-02-15 15:30	0.3 BTC	$40,000
+
 Ethereum	2022-03-20 18:45	2 ETH	$2,000
 By clicking "Calculate", the calculator will display the average acquisition price (DCA) for each cryptocurrency.
